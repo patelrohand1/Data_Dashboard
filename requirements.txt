@@ -2,6 +2,5 @@ streamlit
 yfinance
 pandas
 numpy
-datetime
-pandas_datareader
-plotly.express
+plotly
+beautifulsoup4
