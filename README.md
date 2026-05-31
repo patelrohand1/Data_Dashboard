@@ -18,4 +18,4 @@ The platform is structured into modular execution environments, allowing risk ma
 
 ### 2. 🏛️ Fixed-Income Engine & Yield Curve Visualizer
 * **Live Curve Generation:** Constructs a continuous U.S. Sovereign Yield Curve using Cubic Spline Interpolation
-# Data_Dashboard
+[Data_Dashboard] (https://datadashboard-kd5y6ckkyrd5u4t5mvvtsf.streamlit.app/)
